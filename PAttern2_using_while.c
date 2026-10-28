@@ -2,28 +2,28 @@
 
 int main(void)
 {
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
-  int n, i, j;
 
-  printf("Enter number of rows: ");
-  scanf("%d", &n);
+    printf("Raunit Singh\t1000030627\n");
+    int n, i, j;
 
-  i = 1;
-  while (i <= n)
-  {
-    j = 1;
-    while (j <= n)
+    printf("Enter number of rows: ");
+    scanf("%d", &n);
+
+    i = 1;
+    while (i <= n)
     {
-      if (j <= n - i)
-        printf(" ");
-      else
-        printf("*");
-      j++;
+        j = 1;
+        while (j <= n)
+        {
+            if (j <= n - i)
+                printf(" ");
+            else
+                printf("*");
+            j++;
+        }
+        printf("\n");
+        i++;
     }
-    printf("\n");
-    i++;
-  }
 
-  return 0;
+    return 0;
 }

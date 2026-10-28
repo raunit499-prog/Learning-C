@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-void main()
+int main()
 {
+	printf("Raunit Singh\t1000030627\n");
   int n;
 ayush:
   printf("\nEnter your choice between (1-8):");
@@ -45,4 +46,5 @@ ayush:
     printf("\nINVALID INPUT\nEnter a valid input");
   }
   goto ayush;
+	return 0;
 }

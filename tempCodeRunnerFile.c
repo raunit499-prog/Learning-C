@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
+	printf("Raunit Singh\t1000030627\n");
   int i, n, j;
 
   printf("Enter the number of rows you want:");
@@ -15,4 +16,6 @@ void main()
     }
     printf(" \n");
   }
+
+  return 0;
 }

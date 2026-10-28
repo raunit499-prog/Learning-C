@@ -1,6 +1,7 @@
 #include <stdio.h>
-void main()
+int main()
 {
+	printf("Raunit Singh\t1000030627\n");
   int i = 1, n;
   printf("Enter a positive integer:");
   scanf("%d", &n);
@@ -9,4 +10,5 @@ void main()
     printf("%d\n", i);
     i++;
   } while (i <= n);
+	return 0;
 }

@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
+	printf("Raunit Singh\t1000030627\n");
   int n, i = 1;
 
   do
@@ -18,4 +19,5 @@ void main()
     }
     i++;
   } while (i <= 5);
+	return 0;
 }

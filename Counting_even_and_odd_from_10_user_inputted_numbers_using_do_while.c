@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
+	printf("Raunit Singh\t1000030627\n");
   int n, i = 1, even, odd;
   even = 0;
   odd = 0;
@@ -22,4 +23,5 @@ void main()
 
   printf("The total even numbers are %d\n", even);
   printf("The total odd numbers are %d", odd);
+	return 0;
 }

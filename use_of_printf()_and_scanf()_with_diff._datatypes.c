@@ -2,6 +2,8 @@
 
 int main()
 {
+	printf("Raunit Singh\t1000030627\n");
+	printf("Raunit Singh\t1000030627\n");
   int a;
   float b;
   char c;

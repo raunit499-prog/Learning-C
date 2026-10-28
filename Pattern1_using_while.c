@@ -2,6 +2,8 @@
 
 int main()
 {
+	printf("Raunit Singh\t1000030627\n");
+	printf("Raunit Singh\t1000030627\n");
   int i, n, j = 0;
   {
 
@@ -21,4 +23,5 @@ int main()
       i++;
     }
   }
+	return 0;
 }

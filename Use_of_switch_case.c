@@ -1,17 +1,15 @@
 #include <ctype.h>
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   int day;
 
   printf("Enter a number (1-7): ");
   scanf("%d", &day);
 
-  switch (day)
-  {
+  switch (day) {
   case 1:
     printf("Monday\n");
     break;
@@ -36,5 +34,5 @@ int main()
   default:
     printf("Invalid input! Please enter a number between 1 and 7.\n");
   }
-	return 0;
+  return 0;
 }

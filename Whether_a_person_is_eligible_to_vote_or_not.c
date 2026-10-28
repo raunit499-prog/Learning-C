@@ -1,8 +1,7 @@
 #include <stdio.h>
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   int a, b;
 
   printf("Enter the age of person1:");
@@ -17,5 +16,5 @@ int main()
     printf("The person2 is eligible to vote\n");
   else
     printf("The person2 is not eligible to vote\n");
-	return 0;
+  return 0;
 }

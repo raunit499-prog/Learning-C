@@ -1,21 +1,16 @@
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
   int n, i = 1, even, odd;
   even = 0;
   odd = 0;
 
-  do
-  {
+  do {
     scanf("%d", &n);
-    if (n % 2 == 0)
-    {
+    if (n % 2 == 0) {
       even += 1;
-    }
-    else
-    {
+    } else {
       odd += 1;
     }
     i++;
@@ -23,5 +18,5 @@ int main()
 
   printf("The total even numbers are %d\n", even);
   printf("The total odd numbers are %d", odd);
-	return 0;
+  return 0;
 }

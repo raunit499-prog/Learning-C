@@ -1,9 +1,8 @@
 #include <math.h>
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
   double a, b, c, s, area;
 
   printf("Enter side 1: ");
@@ -17,5 +16,5 @@ int main()
   area = sqrt(s * (s - a) * (s - b) * (s - c));
 
   printf("Area of the triangle = %.2lf\n", area);
-	return 0;
+  return 0;
 }

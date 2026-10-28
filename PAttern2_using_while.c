@@ -1,29 +1,26 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
 
-    printf("Raunit Singh\t1000030627\n");
-    int n, i, j;
+  printf("Raunit Singh\t1000030627\n");
+  int n, i, j;
 
-    printf("Enter number of rows: ");
-    scanf("%d", &n);
+  printf("Enter number of rows: ");
+  scanf("%d", &n);
 
-    i = 1;
-    while (i <= n)
-    {
-        j = 1;
-        while (j <= n)
-        {
-            if (j <= n - i)
-                printf(" ");
-            else
-                printf("*");
-            j++;
-        }
-        printf("\n");
-        i++;
+  i = 1;
+  while (i <= n) {
+    j = 1;
+    while (j <= n) {
+      if (j <= n - i)
+        printf(" ");
+      else
+        printf("*");
+      j++;
     }
+    printf("\n");
+    i++;
+  }
 
-    return 0;
+  return 0;
 }

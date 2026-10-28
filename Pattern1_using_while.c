@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   int i, n, j = 0;
   {
 
@@ -11,11 +10,9 @@ int main()
     scanf("%d", &n);
 
     i = 1;
-    while (i <= n)
-    {
+    while (i <= n) {
       j = 0;
-      while (j < i)
-      {
+      while (j < i) {
         printf("*");
         j++;
       }
@@ -23,5 +20,5 @@ int main()
       i++;
     }
   }
-	return 0;
+  return 0;
 }

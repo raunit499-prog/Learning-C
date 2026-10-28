@@ -1,10 +1,9 @@
 #include <math.h>
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   float a, b, c, s, area;
 
   printf("Enter side 1: ");

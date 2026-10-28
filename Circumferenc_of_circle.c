@@ -1,8 +1,7 @@
 #include <stdio.h>
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   float r, circumference;
   const float PI = 3.14159;
 

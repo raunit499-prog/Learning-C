@@ -1,7 +1,6 @@
 #include <stdio.h>
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
   printf("HELLO WORLD");
-	return 0;
+  return 0;
 }

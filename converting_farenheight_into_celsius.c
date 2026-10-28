@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int main(void)
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main(void) {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   float fahrenheit, celsius;
 
   printf("Enter temperature in Fahrenheit: ");

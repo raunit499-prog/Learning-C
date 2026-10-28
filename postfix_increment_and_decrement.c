@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   int a = 5, b = 5, c = 5, d = 5;
 
   printf("Initial values: a=%d, b=%d, c=%d, d=%d\n\n", a, b, c, d);

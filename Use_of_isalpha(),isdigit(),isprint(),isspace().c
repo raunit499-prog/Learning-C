@@ -1,10 +1,9 @@
 #include <ctype.h>
 #include <stdio.h>
 
-int main()
-{
-	printf("Raunit Singh\t1000030627\n");
-	printf("Raunit Singh\t1000030627\n");
+int main() {
+  printf("Raunit Singh\t1000030627\n");
+  printf("Raunit Singh\t1000030627\n");
   char ch1 = 'A';
   char ch2 = '5';
 

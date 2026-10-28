@@ -2,7 +2,6 @@
 
 int main(void) {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   printf("Size of int: %zu bytes\n", sizeof(int));
   printf("Size of float: %zu bytes\n", sizeof(float));
   printf("Size of double: %zu bytes\n", sizeof(double));

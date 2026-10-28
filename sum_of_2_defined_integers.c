@@ -2,7 +2,6 @@
 
 int main(void) {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   int x = 5, y = 10, sum;
 
   sum = x + y;

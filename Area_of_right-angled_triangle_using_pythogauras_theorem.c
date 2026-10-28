@@ -3,7 +3,6 @@
 
 int main() {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   float Unknown_side, hypotenuse, known_side, area;
 
   printf("Enter known_side: ");

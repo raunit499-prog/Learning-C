@@ -3,7 +3,6 @@
 
 int main() {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   char CharacterName[] = "John";
   int CharacterAge = 76;
   printf("There once was a man named %s\n", CharacterName);

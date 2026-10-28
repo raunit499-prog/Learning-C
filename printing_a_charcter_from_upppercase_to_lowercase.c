@@ -2,7 +2,6 @@
 
 int main() {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   char ch;
 
   printf("Enter an uppercase character: ");

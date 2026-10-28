@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
 
   printf("Raunit Singh\t1000030627\n");
   int n, i, j;
@@ -9,9 +10,11 @@ int main(void) {
   scanf("%d", &n);
 
   i = 1;
-  while (i <= n) {
+  while (i <= n) 
+  {
     j = 1;
-    while (j <= n) {
+    while (j <= n) 
+    {
       if (j <= n - i)
         printf(" ");
       else

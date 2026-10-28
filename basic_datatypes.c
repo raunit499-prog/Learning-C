@@ -3,7 +3,6 @@
 
 int main() {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
 
   int age = 40;
   double gpa = 3.6;

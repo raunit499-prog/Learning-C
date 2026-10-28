@@ -2,7 +2,6 @@
 
 int main() {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   int m, n, sum = 0;
 
   printf("Enter the value of m: ");

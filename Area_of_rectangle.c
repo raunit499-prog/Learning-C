@@ -2,7 +2,6 @@
 
 int main() {
   printf("Raunit Singh\t1000030627\n");
-  printf("Raunit Singh\t1000030627\n");
   float l, b;
 
   printf("Enter the value of length and breadth of the rectangle: ");
